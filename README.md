@@ -1,4 +1,4 @@
-# University_MAnagement_System
+# University_Management_System
 
 Designing an Online University Management System.
 The main aim of the project is to develop an application which would facilitate the students and faculty members to do all the tasks in an efficient manner.
